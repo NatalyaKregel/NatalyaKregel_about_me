@@ -1,5 +1,6 @@
 # NatalyaKregel_about_me
-Information about myself
+
+:handshake: Немножко о себе:
 
 :briefcase: По своему основному профилю я – экономист. 
 
